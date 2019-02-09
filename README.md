@@ -1,0 +1,2 @@
+# androidSkeleton
+Skeleton android project
